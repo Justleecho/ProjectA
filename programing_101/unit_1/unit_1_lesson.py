@@ -62,4 +62,8 @@ print("I don't like spam!")
 
 #escaoe characters allow us to place speical characters inside strings which could normally be illegel
 
-print('hello \'world\'')
+#print('hello \world\'') #print with \ excape character are denoteed by the backsldes \
+
+#print('hello \'world\'')
+
+#learn \n and \t n is new line, \t is horiztontal tab
